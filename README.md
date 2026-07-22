@@ -15,6 +15,7 @@
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0012-integer-to-roman](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
