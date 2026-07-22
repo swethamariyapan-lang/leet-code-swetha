@@ -38,6 +38,7 @@
 | [0013-roman-to-integer](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0005-longest-palindromic-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
