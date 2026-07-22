@@ -37,6 +37,7 @@
 | [0012-integer-to-roman](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
