@@ -14,6 +14,7 @@
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0059-spiral-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
