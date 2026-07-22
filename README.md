@@ -59,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 ## Matrix
 |  |
 | ------- |
