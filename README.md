@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
