@@ -11,6 +11,7 @@
 | [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,10 +77,12 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
+| [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
