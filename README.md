@@ -10,6 +10,7 @@
 | [0014-longest-common-prefix](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
 ## Dynamic Programming
 |  |
 | ------- |
