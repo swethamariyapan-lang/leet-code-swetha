@@ -68,6 +68,7 @@
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0091-decode-ways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0091-decode-ways) |
 ## Greedy
 |  |
 | ------- |
