@@ -44,6 +44,7 @@
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0089-gray-code](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0089-gray-code) |
 ## Memoization
 |  |
 | ------- |
