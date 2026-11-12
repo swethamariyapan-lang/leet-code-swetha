@@ -32,6 +32,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0086-partition-list) |
 ## Math
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,4 +151,16 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
