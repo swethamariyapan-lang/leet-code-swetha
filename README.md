@@ -67,6 +67,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
