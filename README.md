@@ -14,6 +14,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
@@ -115,6 +116,7 @@
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
@@ -124,6 +126,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 ## Trie
 |  |
