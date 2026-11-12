@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
@@ -33,6 +34,7 @@
 | [0013-roman-to-integer](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
@@ -78,6 +80,7 @@
 | [0038-count-and-say](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
@@ -140,6 +143,7 @@
 | [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0088-merge-sorted-array) |
 ## Backtracking
