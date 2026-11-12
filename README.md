@@ -58,6 +58,7 @@
 | [0069-sqrtx](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0089-gray-code) |
+| [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0091-decode-ways) |
+| [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,4 +210,16 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0051-n-queens) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
