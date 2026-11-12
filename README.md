@@ -57,6 +57,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
@@ -112,6 +114,7 @@
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
@@ -120,6 +123,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 ## Trie
 |  |
