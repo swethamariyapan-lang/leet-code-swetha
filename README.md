@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
@@ -138,6 +139,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0088-merge-sorted-array) |
 ## Backtracking
@@ -145,6 +147,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0090-subsets-ii) |
 ## Stack
