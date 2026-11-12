@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
@@ -152,6 +153,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0090-subsets-ii) |
 ## Stack
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
