@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
@@ -99,6 +100,7 @@
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
@@ -107,6 +109,7 @@
 | [0005-longest-palindromic-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
@@ -138,6 +141,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 ## Matrix
 |  |
@@ -175,4 +179,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
