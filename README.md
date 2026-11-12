@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0057-insert-interval) |
@@ -27,6 +28,7 @@
 | [0012-integer-to-roman](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
