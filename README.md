@@ -65,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 ## Matrix
 |  |
@@ -163,4 +166,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
