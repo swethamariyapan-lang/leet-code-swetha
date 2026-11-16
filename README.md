@@ -165,6 +165,7 @@
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
 | ------- |
@@ -222,4 +223,12 @@
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
