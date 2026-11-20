@@ -44,6 +44,7 @@
 | [0002-add-two-numbers](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0086-partition-list) |
 ## Math
@@ -118,6 +119,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
