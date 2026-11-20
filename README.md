@@ -26,6 +26,7 @@
 | [0059-spiral-matrix-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
+| [0084-largest-rectangle-in-histogram](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0090-subsets-ii) |
 ## Hash Table
@@ -181,6 +182,7 @@
 | [0032-longest-valid-parentheses](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0232-implement-queue-using-stacks) |
 ## Matrix
 |  |
@@ -224,6 +226,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0084-largest-rectangle-in-histogram) |
 ## Algorithm X
 |  |
 | ------- |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0062-unique-paths) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
