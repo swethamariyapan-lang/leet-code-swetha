@@ -55,6 +55,7 @@
 | [0012-integer-to-roman](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0070-climbing-stairs) |
@@ -66,6 +67,7 @@
 | [0002-add-two-numbers](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0060-permutation-sequence) |
 ## String
 |  |
 | ------- |
