@@ -39,6 +39,7 @@
 | [0041-first-missing-positive](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -93,12 +94,14 @@
 | [0067-add-binary](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0091-decode-ways) |
 | [1447-simplified-fractions](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1447-simplified-fractions) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
