@@ -51,6 +51,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Math
 |  |
 | ------- |
@@ -259,4 +260,20 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Depth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Binary Tree
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
