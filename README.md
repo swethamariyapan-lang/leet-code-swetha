@@ -30,6 +30,7 @@
 | [0088-merge-sorted-array](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0090-subsets-ii) |
 | [0733-flood-fill](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0733-flood-fill) |
+| [1514-path-with-maximum-probability](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1514-path-with-maximum-probability) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0023-merge-k-sorted-lists) |
+| [1514-path-with-maximum-probability](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1514-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -288,4 +290,16 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/0145-binary-tree-postorder-traversal) |
+## Graph Theory
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1514-path-with-maximum-probability) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/swethamariyapan-lang/leet-code-swetha/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
